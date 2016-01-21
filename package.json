@@ -1,0 +1,15 @@
+{
+  "name": "ninja-chick",
+  "version": "1.0.0",
+  "description": "An HTML5 platformer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sam Workman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "path": "^0.12.7"
+  }
+}

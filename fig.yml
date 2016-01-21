@@ -1,0 +1,5 @@
+web:
+  build: .
+  command: npm start
+  ports:
+    - 3000:80
